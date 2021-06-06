@@ -1,2 +1,2 @@
-# git_workspace_jsp
+# git_nexa_test
 넥사크로
